@@ -1,0 +1,3 @@
+touch modules/.gitignore
+touch config/.gitignore
+touch data/.gitignore
